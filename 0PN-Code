@@ -37,5 +37,5 @@ Electronic Notice and Consent Governance Architecture is presented here for digi
 
 This technology presents a prevalent security risk in which people are assigned identifiers, referenced as meta-data, which is then surveilled/tracked to observe sentiment and interest.   An electronic notice record and consent record receipt can be used to mirror the record of processing and be verified/notarized for it’s further utilitiy as a micro-credential or token.  
 
-ZKP can then be used,  
+ZKP can then be used for self-asserting verifiable credentials anonymously. 
 
