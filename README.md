@@ -1,2 +1,2 @@
 # 0PN
-Zero Privacy Nework
+Zero Privacy Network
