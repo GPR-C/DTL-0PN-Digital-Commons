@@ -2,48 +2,17 @@
 # 0PN-Ctrl
 open source governance control transparency tools and frameworks works for the 
 
-0PN - eNotary - id transparency and risk governance  model which applies a data control transparency assessment to records captured with this open source specification, 
+0PN - eNotary - id transparency and risk governance  model which applies a data control transparency assessment to records captured with this open source specification to produce digital consent.
 
-The framework for creating an eNotice record and eConsent receipt for checking the privacy state and performance of the controls. 
+The framework for creating a  Notice receiept with a digital credenial and  Anchoring this record for Consent is required for applying a compliance assessment, work started in the ANCR-WG at Kantara and designed for consent record information structure  for checking the privacy state and performance of the transpararency as a compliance and a conformance Assessment. 
 
-This involves capturing legally required  public privacy info about the control of personal information into a transparency record, or zero public network record (0PN-R)
+This involves capturing legally required  public privacy info, digital commons data,  about the control of personal information into a transparency record, or zero public network record (0PN-R)
 
 This repo’s objective is to specify eNotice Records and Receipts  : 
 1. Creating a Record
 2. Assessing the record 
 3. Using the record 
 
-In accordance with  the 0PN - Data Control Governance Model & Impact Assessment 
+In accordance with  the 0PN: Transparency Code of Practice defined in CoE Conventiona 108+ Chapter 1, Article 14, transaprency and modalitiies.  1. Transparency ..provided to the data subject in a concise, transparent, intelligible and easily accessible form, using clear and plain language, in particular for any information addressed specifically to a child.
 
-This open source repository for global privacy rights covers: 
-
-1. GPR - Notice Controller Record
-2. GPR - Notice Controller Record Assessment 
-3. GPR - Notice Controller Record and Consent Receipt 
-
-Capturing the credential
-- creating the record in accordance with the Kantara Initiative ANCR WG Specification 
-- assessing if there is enough information to make a notice controller record 
-- testing the performance of transparency
-
-Differential Transparency
-
-a. create the record
-b. assess if enough information to make a credential 
-c. Data Control impact assessment
-
-0PN-Ctrl’r Assessment
-
-Once the record is created
-
-1. to First identify;  Which of the 3 vectors of identity governance control an identifier is being governed from 
-a. Personal Data Control (decentralized transparency) 
-b. 
-
-2. to Then identify, which of the 3 level of risk assurance is required, before assessing / listing risks, then meausres wich mitigate the risks
-
-d. transparency performance test - to test the performance of risk mitgations presented through the controller credential information 
-
-Next Milestone in Roadmap
-- The  OPNCTRL Registrar Service through a Data Cntrl Impact Assessment [link to 0pnCIC-repo]
-
+This Royalty Free  repository for global privacy rights 
