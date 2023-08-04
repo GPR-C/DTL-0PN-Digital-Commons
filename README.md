@@ -1,6 +1,6 @@
 # 0PN
 Zero Privacy Needed 
-with AuthC - Notice & Consent Receipt Exchange Prototol
+with AuthC - Notice & Consent Receipt Exchange Prototol 
 
 *International Regulated Digital Consent Code of Conduct*
 
