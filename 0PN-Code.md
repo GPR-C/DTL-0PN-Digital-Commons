@@ -1,15 +1,16 @@
 #0PN-Code
 
 The presentation of an 0PN System Architecture requires first a clear and inclusive data control governance privacy risk model, which is inclusive, non-discriminatory, and empowering.
- Resultibg propose a trustworthy id system architecture, which address the governance and risk vectors highlighted from a human centric data control perspective.  the premise is trustworthy id is achieved through records i control and use then use to engage with 3rd parties. Rather than records that are controlled for me.  
+
+Resultibg propose a trustworthy id system architecture, which address the governance and risk vectors highlighted from a human centric data control perspective.  the premise is trustworthy id is achieved through records i control and use then use to engage with 3rd parties. Rather than records that are controlled for me.  
 
 Part 1: Governance & Risk 
 
 In governance and risk discourse, legal instruments and modelling we identified through our research that a vector of governance - personal data control has largely been missing.  As a result the architecture presented first focuses on the control vector of personal data, then applies a privacy risk and security assurance model in accordance with security requirements of this vector.  
 
-There are 3 vectors of digital identity governance which has different privacy risks and security considerations for trustworthy digital identifier management  
+There are 3 vectors of digital identitifier governance which has different privacy risks and security considerations for trustworthy digital identifier management.  These are reflected as 3 modes of operations in a consent receipt wallet.  
 
-1. Personal Data Control - requires decentralized data governance and identifier management 
+1. Personal Data Control - independent of the service provider. 
 
 2. Co-Regulated Data Control - requires distributed data controls and identifier management. 
 
