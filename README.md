@@ -15,7 +15,6 @@ Likewise, contemporary digital governance faces a similar issue with the absence
 **Challenges in Digital Governance**
 The absence of concentric interaction (notice an consent) receipts in digital governance is analogous to the "I agree" button used in online interactions. The unregulated exchange format allows entities to exploit surveillance and profit from user engagements without obtaining proper consent. Consequently, this governance framework raises concerns about privacy, consent, and ethical practices.
 
-
 **The Role of Digital Credentials**
 To address these challenges, the presentation of a standard digital PII Controller Credential in a standard digital notice, can be used to auto-generate a notice and consent receipt. 
 
@@ -25,15 +24,16 @@ Zero Privacy is Needed  (ZPN)
 
 **Regulatory Scheme Review**
 
-- As Quebec is implementing enforceable  Consent Law on Sept 22, this is our chance to test this out.   
-E.g. Invalidate cookies under Quebec law and replace the IABCanada Transparency and Consent framework with a real one. - as a program to create an International Digital Consent Code of Conduct,  (IDCC)
+- As Quebec is implementing enforceable  Consent Law on Sept 22, this is the first chance to test this out in Canada.   
+E.g. For example invalidate cookies under Quebec law and suggest an update to a regulated Transparency and Consent framework, in which DPO's have credentialsm and adtech is done with a receipt exchange,  a program running an International Regulated Digital(Transparency &) Consent Code of Conduct (IRDCCC) transparency is silent. 
 
-1.  International law and standard must be used for interoperability - a  transparency code of conduct being proposed for review between Quebec and France .  The outcome requiring, receipts, 
-2. The scheme being proposes is that only notarized and verified claims are required by services to identify people in online services.
+1.  International law and standard must be used for interoperability - a  transparency code of conduct being proposed for review between Quebec and France, must use open international regulatory instruments as a baseline to measure transparency performance against what would be 'expected to be adequate' for the digital governance of privacy expectations.   
+2. This regulatory scheme  proposes that notarized and verified claims are required by services to identify people in online services. And that Digital Consent Tokens must be Anchored, with a notice receipt
 3. Addressing the critical flaw in digital identity management security technology, enabling the constant breach of protected data.  
-4. Approving an international Digital Consent Scheme to enable peer to peer transparency and security 
-
-10x security. The architecture presented is a mirrored record of processing scheme is a next generation security solution, that takes back control of the digital commons, with digitally twinned and notarised digital privacy. 
+4. Approving an international Digital Consent Scheme to enable peer to peer transparency and security, this will
+- 10x security and privacy
+- Enable people to control their and own their own social profile.  The architecture presented is a mirrored record of processing scheme, which is synchronic as it is used to indicate if there are changes in the performance of transparency (conformance) and the integrity of the purpose (compliance) as a differential transparency signalling in the AuthC protocol.
+- Evolving receipts as a trust tool for the next generation security solution, framework for engendering a digital commons. 
 
 **Empowering Individuals**
 With notarized digital credentials, individuals can use this in a Self-Actioning-System protected model to become issuers of digital consent tokens, their own personal digital currency called a consent receipt.  
@@ -44,4 +44,6 @@ With notarized digital credentials, individuals can use this in a Self-Actioning
 Furthermore, mitigating the security and privacy risks with biometric surveillance through the use and implementation of notarized verified claims, replacing the username and password security profile eliminating the requirement for widespread biometric surveillance. This move the risk and liability, to reduces privacy concerns and promotes a more user-friendly and secure digital environment.
 
 **In This Repo**
+This is the first part of the update to open this repo, which likely will need to be close until septemper. 
+
 Contribute to the sepecifiaiton and adoption of notarized digital credentials as a governance framework presents a promising solution to the current challenges in digital governance. Similar to how notarized receipts transformed the gold exchange process in medieval times, this modern approach promises enhanced security, transparency, and user empowerment. By shifting towards this digital freedom technology, we can provide individuals with digital transparency to make the choice of which services to trust with access to PII and as a result trustworthy.  Fostering a sense of confidence and protection among all stakeholders involved in an inclusive Dynamic Data Ecosystem and Commons.
