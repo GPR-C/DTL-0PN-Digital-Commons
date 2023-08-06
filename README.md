@@ -2,9 +2,10 @@
 Zero Privacy Needed 
 with AuthC - Notice & Consent Receipt Exchange Prototol 
 
-*International Regulated Digital Consent Code of Conduct*
+*International Regulated Digital Consent Transparency Code of  Conduct*
+(implememnting CoE Conv. 108+ Transparency Modalities Art 14)
 
-The current state of technology in the digital governance landscape reflects a historical parallel with the medieval era when gold transfers occurred between banks without the existence of notarized receipts. Notarized receipts revolutionized the security and efficiency of gold exchange, making it tenfold more reliable. However, today's digital governance lacks interaction receipts (records of digital relationships, that people control) rather than e.g. cookies
+The current state of technology in the digital governance landscape reflects a historical parallel with the medieval era when gold transfers occurred between banks without the existence of notarized receipts. Notarized receipts revolutionized the security and efficiency of gold exchange, making it tenfold more reliable. However, today's digital governance lacks interaction receipts (records of digital relationships, that people control) rather than e.g. cookie receipts you don't.  
 
 **Historical Comparison**
 In the medieval era, gold was transferred from a bank in Florence to a bank in France without notarized receipts, making the process susceptible to risks and fraud. The introduction of notarized receipts increased transparency, accountability, and trust, thereby reducing fraudulent activities, and enhancing the overall gold exchange system.
