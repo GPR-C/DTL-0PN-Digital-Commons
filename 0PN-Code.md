@@ -1,42 +1,45 @@
-#0PN-Code
+# 0PN
+Zero Privacy Needed
+with AuthC - Notice & Consent Receipt Exchange Protocol
 
-The presentation of an 0PN System Architecture requires first a clear and inclusive data control governance privacy risk model, which is inclusive, non-discriminatory, and empowering.
+*International Regulated Digital Consent Transparency Code of  Conduct*
+(implementing CoE Conv. 108+ Transparency Modalities Art 14)
 
-Resultibg propose a trustworthy id system architecture, which address the governance and risk vectors highlighted from a human centric data control perspective.  the premise is trustworthy id is achieved through records i control and use then use to engage with 3rd parties. Rather than records that are controlled for me.  
+The current state of technology in the digital governance landscape reflects a historical parallel with the medieval era when gold transfers occurred between banks without the existence of notarised receipts. Notarised receipts revolutionised the security and efficiency of gold exchange, making it tenfold more reliable. However, today's digital governance lacks interaction receipts (records of digital relationships, that people control) rather than e.g. cookie receipts you don't.  
 
-Part 1: Governance & Risk 
+**Historical Comparison**
+In the medieval era, gold was transferred from a bank in Florence to a bank in France without notarized receipts, making the process susceptible to risks and fraud. The introduction of notarized receipts increased transparency, accountability, and trust, thereby reducing fraudulent activities, and enhancing the overall gold exchange system.
 
-In governance and risk discourse, legal instruments and modelling we identified through our research that a vector of governance - personal data control has largely been missing.  As a result the architecture presented first focuses on the control vector of personal data, then applies a privacy risk and security assurance model in accordance with security requirements of this vector.  
+Likewise, contemporary digital governance faces a similar issue with the absence of transaction receipts. This period of analogue governance of digital spaces can be likened to a time when commercial paper had just become currency but predated the invention of cash register receipts.  At this time, the main security feature of a cash register was invented, when a bell was attached to drawer of register, notifying of its access, providing transparency in context.  Representing a major governance innovation.  This offered some level of accountability, but there was still no formal mechanism to address disputes and deceptive practices between people and services.  The introduction of transactional receipts transformed the social-economic landscape, providing an inclusive trust mechanism, fostering consensus, mitigating divisive practices, and empowering the common people against unscrupulous entities.
 
-There are 3 vectors of digital identitifier governance which has different privacy risks and security considerations for trustworthy digital identifier management.  These are reflected as 3 modes of operations in a consent receipt wallet.  
+**Challenges in Digital Governance**
+The absence of concentric interaction (notice an consent) receipts in digital governance is analogous to the "I agree" button used in online interactions. The unregulated exchange format allows entities to exploit surveillance and profit from user engagements without obtaining proper consent. Consequently, this governance framework raises concerns about privacy, consent, and ethical practices.
 
-1. Personal Data Control - independent of the service provider. 
+**The Role of Digital Credentials**
+To address these challenges, the presentation of a standard digital PII Controller Credential in a standard digital notice, can be used to auto-generate a notice and consent receipt.
 
-2. Co-Regulated Data Control - requires distributed data controls and identifier management. 
+ The  Notice receipt  transferred in/ as a digital credential, can then be used. By the individual to make a consent token by adding this receipt and the proof of notice to consent token, returning it to the end point to access digital privacy services, like withdraw consent, without having to identify oneself to a relying party.
 
-3. Data Protection - requires centralized data control and federated identity management.  
+Zero Privacy is Needed  (ZPN)
 
- 
+**Regulatory Scheme Review**
 
-Each vector of data control governance has 3 tiers/levels of digital identifier risk assurance  
+- As Quebec is implementing enforceable  Consent Law on Sept 22, this is the first chance to test this out in Canada.   
+E.g. For example invalidate cookies under Quebec law and suggest an update to a regulated Transparency and Consent framework, in which DPO's have credentialsm and adtech is done with a receipt exchange,  a program running an International Regulated Digital(Transparency &) Consent Code of Conduct (IRDCCC) transparency is silent.
 
-1.Self asserted - Controller Credential - usable for hyper localized - in person privacy risk assessment 
+1.  International law and standard must be used for interoperability - a  transparency code of conduct being proposed for review between Quebec and France, must use open international regulatory instruments as a baseline to measure transparency performance against what would be 'expected to be adequate' for the digital governance of privacy expectations.   
+2. This regulatory scheme  proposes that notarized and verified claims are required by services to identify people in online services. And that Digital Consent Tokens must be Anchored, with a notice receipt
+3. Addressing the critical flaw in digital identity management security technology, enabling the constant breach of protected data.  
+4. Approving an international Digital Consent Scheme to enable peer to peer transparency and security, this will
+- 10x security and privacy
+- Enable people to control their and own their own social profile.  The architecture presented is a mirrored record of processing scheme, which is synchronic as it is used to indicate if there are changes in the performance of transparency (conformance) and the integrity of the purpose (compliance) as a differential transparency signalling in the AuthC protocol.
+- Evolving receipts as a trust tool for the next generation security solution, framework for engendering a digital commons.
 
-2. Authoritative - Controller  Credential - verified data controller and  data protection officer, or company director, in a jurisdiction where privacy is enforced  
+**Empowering Individuals**
+With notarized digital credentials, individuals can use this in a Self-Actioning-System protected model to become issuers of digital consent tokens, their own personal digital currency called a consent receipt.  
 
-3. Assured - Controller  - operator of a personal data control (eConsent) code of practice, which in addition to tier 2, is certified and monitored by recognized provider/regulator for a specific set of data control and management practices 
+ Presented in the form of a consent token-based digital credentials.  This shift in the control of records of processing activities empowers individuals, enhancing their control over their personal data and digital interactions and transferring the individual trust online with digital consent.
 
-  
-
-Which vector and what tier can be determined with a data control impact assessment. which involves the assessment of who controls a digital identifier, how many parties it is disclosed too, what is the security when disclosed to indicate the scope of privacy risk.  WHo is the beneficial owner? 
-
-  
-
-Trustworthy ID System Architecture 
-
-Electronic Notice and Consent Governance Architecture is presented here for digital identity management, in which digital identity represents a high risk, alpha surveillance technology.  
-
-This technology presents a prevalent security risk in which people are assigned identifiers, referenced as meta-data, which is then surveilled/tracked to observe sentiment and interest.   An electronic notice record and consent record receipt can be used to mirror the record of processing and be verified/notarized for it’s further utilitiy as a micro-credential or token.  
-
-ZKP can then be used for self-asserting verifiable credentials anonymously, with a 2fN. (Two Factor Notice) 
+**Mitigating Biometric surveillance**
+Furthermore, mitigating the security and privacy risks with biometric surveillance through the use and implementation of notarised verified claims, replacing the username and password security profile eliminating the requirement for widespread biometric surveillance. This move the risk and liability, to reduces privacy concerns and promotes a more user-friendly and secure digital environment.
 
