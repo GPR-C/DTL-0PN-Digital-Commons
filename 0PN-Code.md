@@ -18,7 +18,7 @@ This parallel is refelected in the use of I Agree button, linked to check-box in
 
 The extreme impact, of this is the tragedy of the commons, this effort is designed to address.   Replacing, policies no-one reads or understand, which are divorcing people and organizations from accountabilty and responsibility. This means that people can't see their choices, how they might impact the environment, find consensus, and  change pracitices to help save the environment and planet.    Enslabed to detriment of human society, 
 
-0PN- Itroduces - the I agreement replacement, and the digital trust architecture that implments the oldest trust technology known to revolutionize human-kind, called a receipt. 
+0PN- Introduces - the I agreement replacement, and the digital trust architecture that implments the oldest trust technology known to revolutionize human-kind, called a receipt. 
 
 OPN introduces a 2 Factor Notice for Digital transaprency, which generates a notice receipt, that people can  voluntartily use to provide services with free, prior, informed and meaningful digital consent.  Without being tracked, identified, and profiled, which makes today's privacy services pointless. 
 
