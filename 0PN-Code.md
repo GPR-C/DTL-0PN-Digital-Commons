@@ -1,11 +1,27 @@
-# 0PN
-Zero Privacy Needed
-with AuthC - Notice & Consent Receipt Exchange Protocol
+# 0PN - Zero Public Network - Digital Fredom Technology  
 
-*International Regulated Digital Consent Transparency Code of  Conduct*
-(implementing CoE Conv. 108+ Transparency Modalities Art 14)
+*International Regulated Digital Consent Transparency Code of Conduct(IRDCTCC)*
+This OPN - Digital Commons - Reopository is designed to implement the IRDCTCC -to implement digital commons infrastructur.
 
-The current state of technology in the digital governance landscape reflects a historical parallel with the medieval era when gold transfers occurred between banks without the existence of notarised receipts. Notarised receipts revolutionised the security and efficiency of gold exchange, making it tenfold more reliable. However, today's digital governance lacks interaction receipts (records of digital relationships, that people control) rather than e.g. cookie receipts you don't.  
+This organization must have a CIC Charter, and be required to implement CoE Conv. 108+ Chapter 1- Human Transparency Modalities - Art 14 1.  for community interest and public profit. 
+
+This repository is where the open source Registrar & Notary software will be implement in a Community Interest Company. The 0PN-Codes to start services for an international public privacy policy is a  'Digital Privacy Transaprency Agreement', which people can apply to any company, to make non-compliant behaviour transparent to the Privacy Regulator. 
+
+Anyone can be use this service to create a public Transparency Report, and start a public listing service called the Transparency Index.   Now in development in the Digital Tranaprency Lab, Canada. 
+
+**Introduction**
+The current state of the digital commons, is near tragedy, with nationalist governance frameworks and commerical - transaprency and trust frameworks, dominating the digital governance landscape.  Reflecting a historical parallel with the medieval era when gold transfers occurred between banks without the existence of notarised receipts. 
+
+Notarised receipts revolutionised the security and efficiency of gold exchange, making it tenfold more reliable. However, today's digital governance lacks governed digital receipts (records of digital relationships, that people control) but instead is goverened with 'cookies' digital receipts you don't consent to using.  
+
+This parallel is refelected in the use of I Agree button, linked to check-box in which people can claim they have agreed and understood terms,.  (not risks or how to access privacy rights, or see the impact of your choice)  Check-box in wich only 3% of users click through is not privacy, or consent, it is a contract, without privacy rights,. 
+
+The extreme impact, of this is the tragedy of the commons, this effort is designed to address.   Replacing, policies no-one reads or understand, which are divorcing people and organizations from accountabilty and responsibility. This means that people can't see their choices, how they might impact the environment, find consensus, and  change pracitices to help save the environment and planet.    Enslabed to detriment of human society, 
+
+0PN- Itroduces - the I agreement replacement, and the digital trust architecture that implments the oldest trust technology known to revolutionize human-kind, called a receipt. 
+
+OPN introduces a 2 Factor Notice for Digital transaprency, which generates a notice receipt, that people can  voluntartily use to provide services with free, prior, informed and meaningful digital consent.  Without being tracked, identified, and profiled, which makes today's privacy services pointless. 
+
 
 **Historical Comparison**
 In the medieval era, gold was transferred from a bank in Florence to a bank in France without notarized receipts, making the process susceptible to risks and fraud. The introduction of notarized receipts increased transparency, accountability, and trust, thereby reducing fraudulent activities, and enhancing the overall gold exchange system.
