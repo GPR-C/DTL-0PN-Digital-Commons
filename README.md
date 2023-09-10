@@ -4,4 +4,4 @@ Enables peoiple to acces digital privacy services without giving up privacy.  A 
 
 This 0PN-Repo, is for the open-for-public profit Licensed version of the 0PN: Notice record and receipt, transparnecy index-registry software for digital commons.
 
-This repo-aims to be ready to launch late September early October 2023 - stay tuned
+This repo-aims to be ready to launch late September 24 & 25. 
