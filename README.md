@@ -1,4 +1,6 @@
-0PN Digital Common Wealth
+0PN Digital Commons
+
+Is a consortia initiative to develop services for the Digital Common Wealth, and promotes a single framework for digital transparency international so that everyone can see the results of their choice online, on themselves and on the plant.  Promoting that Indivudals have their own records of doigital relationships and choices, and provision their own cosent receipts, to be usd as tokens that carry digital claims.
 
 0PN - Standard for Digital Transprency Standards  - which when used zero privacy is needed to protect your identifiers and micro (meta) data. 
 0PN means - it is secure by design - from anonymous to full technical transparency - an international digital transparency governance frameowrk for the commons. 
