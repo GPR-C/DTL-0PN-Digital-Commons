@@ -1,6 +1,0 @@
-**References**
-
-Reference materialial list
-
-
-
